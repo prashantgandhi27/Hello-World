@@ -1,5 +1,8 @@
-# Hello-World
-I am learning github.
+### Greetings,
 
-# My name is Prashant Gandhi. I am a Graduate Student at San Jose State University.
-Major : Computer Engineering
+
+# Name:            Prashant Gandhi
+# email-ID:        prashantgandhi7979@gmail.com
+# Degree :         Computer Engineering
+# Specialisation : Embedded Software Design
+
