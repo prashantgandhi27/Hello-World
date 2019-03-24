@@ -2,7 +2,9 @@
 
 
 **Name**           : Prashant Gandhi  
-**email-ID**       : prashantgandhi7979@gmail.com  
-**Degree**         : Computer Engineering  
+**email-ID**       : prashantgandhi7979@gmail.com
+**College**        : San Jose State University (SJSU), California, USA  
+**Degree**         : Master of Science (MS)  
+**Major**          : Computer Engineering  
 **Specialisation** : Embedded Software Design  
 
